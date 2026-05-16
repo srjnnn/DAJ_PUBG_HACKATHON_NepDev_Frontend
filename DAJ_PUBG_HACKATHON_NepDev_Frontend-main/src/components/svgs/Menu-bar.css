@@ -1,0 +1,12 @@
+/* MenuBar.css */
+.menu-bar .line {
+  transition: transform 0.3s ease;
+}
+
+.menu-bar:hover .top {
+  transform: translateX(8px); /* move right */
+}
+
+.menu-bar:hover .bottom {
+  transform: translateX(-8px); /* move left */
+}
