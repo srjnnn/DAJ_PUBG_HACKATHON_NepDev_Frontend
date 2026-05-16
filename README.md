@@ -49,7 +49,7 @@ Mental health is often neglected due to stigma, lack of awareness, and limited a
 ---
 
 ##  Team Collaborators  
-- **Backend Lead & Project Manager:** Srijan Kharel(https://www.linkedin.com/in/srijan-kharel-fullstack-developer/)  
+- **Team Lead, Project Manager & Full-Stack Developer:** Srijan Kharel(https://www.linkedin.com/in/srijan-kharel-fullstack-developer/)  
 - **Frontend Developers:** Rijan Gautam(https://www.linkedin.com/in/rijan-gautam-ba8448312/) & Ujwal Khatiwada (https://www.linkedin.com/in/ujwalkhatiwadaa/)  
 - **Designer:** Prajwal Gautam(https://www.linkedin.com/in/prajjwal-gautam-056658369/)  
 
